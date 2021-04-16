@@ -1,0 +1,26 @@
+body{
+    background-color: lightgrey;
+}
+
+.mainbody{
+    margin-left: 40px;
+}
+
+h4{
+    text-decoration: underline;
+    text-align: center;
+}
+
+legend{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+    font-style: italic;
+}
+
+.admin{
+    font-size: 1em;
+    font-weight: normal;
+}
